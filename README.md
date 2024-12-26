@@ -14,7 +14,6 @@ This prediction allows companies to reorganize tasks and address potential produ
 
 ### Tools Used
 - **Python**: For data preprocessing and machine learning model development.
-- **SQL**: To manage and prepare data.
 - **Tableau**: For visualizing the analysis results. View the Tableau dashboard [here](https://public.tableau.com/app/profile/antonio.quaresma/viz/AbsenteeismPredictions_17347956070900/ReasonsvsProbability).
 
 ---
